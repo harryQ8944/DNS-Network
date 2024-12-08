@@ -50,9 +50,6 @@ On the high level, the DNS server is capable of the following:
 
 5. Parse commands sent from the user via TCP and update the server.
 
-   The recursor can:
-
-1. Start up if the root DNS server is specified in command-line argument.
 
 2. Read and validate a domain in the standard input.
 
